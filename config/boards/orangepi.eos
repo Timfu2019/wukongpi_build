@@ -1,0 +1,5 @@
+# Allwinner A20 dual core 1Gb SoC Wifi USB hub
+BOARD_NAME="Orange Pi"
+BOARDFAMILY="sun7i"
+BOOTCONFIG="Orangepi_defconfig"
+KERNEL_TARGET="legacy,current,edge"

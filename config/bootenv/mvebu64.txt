@@ -1,0 +1,2 @@
+board_version=v5
+verbosity=1
